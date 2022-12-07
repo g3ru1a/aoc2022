@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",                          
+    "module": "CommonJS",                    
+    "lib": ["es6"],                     
+    "allowJs": true,
+    "outDir": "build",                          
+    "rootDir": "day7",
+    "strict": true,         
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "strictNullChecks": false
+  },
+  "exclude": ["days1-6/**/*", "node_modules", "build"]
+}
