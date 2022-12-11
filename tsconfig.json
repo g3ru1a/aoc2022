@@ -12,5 +12,5 @@
     "resolveJsonModule": true,
     "strictNullChecks": false
   },
-  "exclude": ["days1-6/**/*", "node_modules", "build"]
+  "exclude": ["days1-6/**/*", "node_modules", "build", "day11/**/*"]
 }
